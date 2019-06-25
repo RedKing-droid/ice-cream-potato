@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ice-cream Pages
 
 You can use the [editor on GitHub](https://github.com/RedKing-droid/ice-cream-potato/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
